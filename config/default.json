@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://mostafa:1qaz1qaz@devconnector-27wzy.mongodb.net/test?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://mostafa:1qaz1qaz@devconnector-27wzy.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "mySecretToken"
 }
