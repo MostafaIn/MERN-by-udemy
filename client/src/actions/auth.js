@@ -10,6 +10,7 @@ import {
 	LOGIN_FAIL,
 	LOG_OUT,
 	CLEAR_PROFILE,
+	ACCOUNT_DELETED,
 } from './types';
 
 // LOAD USER
