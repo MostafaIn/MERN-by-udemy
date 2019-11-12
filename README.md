@@ -19,3 +19,11 @@
 -   section 3: User API Routes & JWT Authentication
 -   section 4: Profile API Routes
 -   section 5: Post API Routes
+-   section 6: Getting Started With React & The Front-end
+-   section 7: Redux Setup & Alerts
+-   section 8: React User Authentication
+-   section 9: Dashboard & profile Management
+-   section 10: Profile Display
+-   section 11: Posts & Comments
+-   section 12: Prepare & Deploy
+
