@@ -47,9 +47,9 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
 	);
 	return (
 		<nav className="navbar bg-dark">
-			<h1>
+			<h1 style={{ fontSize: 'calc(1vw + 14px)' }}>
 				<Link to="/">
-					<i className="fas fa-code"></i> MERN APPLICATION
+					<i className="fas fa-code" /> MERN APPLICATION
 				</Link>
 			</h1>
 			{!loading && <Fragment>{isAuthenticated ? authLinks : guestLinks}</Fragment>}

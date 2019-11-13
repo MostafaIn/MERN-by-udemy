@@ -27,3 +27,9 @@
 -   section 11: Posts & Comments
 -   section 12: Prepare & Deploy
 
+
+// DEMO
+[view](http://devsinfo.herokuapp.com)
+
+//
+![screenshot](screenshot.png)
