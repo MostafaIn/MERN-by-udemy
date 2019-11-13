@@ -1,16 +1,15 @@
 # Modern Technologies Used
-* VSCode Editor
-* ES6+ Syntax
-* Async / Await
-* React Hooks
-* Redux With DevTools
-* JWT (JSON Web Tokens)
-* Postman HTTP Client
-* Mongoose / MongoDB / Atlas
-* Bcrypt Password Hashing
-* Heroku & Git Deployment
 
-
+-   VSCode Editor
+-   ES6+ Syntax
+-   Async / Await
+-   React Hooks
+-   Redux With DevTools
+-   JWT (JSON Web Tokens)
+-   Postman HTTP Client
+-   Mongoose / MongoDB / Atlas
+-   Bcrypt Password Hashing
+-   Heroku & Git Deployment
 
 # MERN by udemy.
 
@@ -27,9 +26,6 @@
 -   section 11: Posts & Comments
 -   section 12: Prepare & Deploy
 
+[view DEMO](http://devsinfo.herokuapp.com)
 
-// DEMO
-[view](http://devsinfo.herokuapp.com)
-
-//
 ![screenshot](screenshot.png)
